@@ -40,10 +40,10 @@ The raw sales dataset was cleaned and transformed using Power Query before creat
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](image1.png)
 
 ### Sales Forecast
-![Sales Forecast](sales-forecast.png)
+![Sales Forecast](image2.png)
 
 ## Business Insights
 - West region generated the highest sales.
